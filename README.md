@@ -7,8 +7,8 @@ This project aims to analyse the transaction and customer data to
 
 1. Identify the target customer segment
    
-2. Assess the impact of the new trial layouts on sales
+2. Assess the impact of the new trial layouts of stores on sales
    
 3. Build a report to present the insights
    
-for the client who is the Category Manager for Chips.
+for a client who is the Category Manager for Chips.
